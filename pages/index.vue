@@ -124,7 +124,7 @@ export default {
   },
   data() {
     return {
-      items: ['slide1.jpeg',  'slide3.jpeg'],
+      items: ['slide1.jpeg',  'slide3.jpeg', 'slide4.jpeg', 'slide5.jpeg'],
       index: null
     }
   },
