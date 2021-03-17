@@ -15,9 +15,11 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@popperjs/core": "2.5.1",
     "@tailwindcss/custom-forms": "0.2.1",
+    "@wyhaya/vue-slide": "^1.0.2",
     "chart.js": "2.9.3",
     "core-js": "3.6.5",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "vue-cool-lightbox": "^2.7.1"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^3.4.2"
