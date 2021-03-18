@@ -6,10 +6,10 @@
 <section class="text-gray-600 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Before they sold out
-        <br class="hidden lg:inline-block">readymade gluten
+      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+        <br class="hidden lg:inline-block">INSTITUTE
       </h1>
-      <p class="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.</p>
+      <p class="mb-8 leading-relaxed">Providing comprehensive and individually focused learning that prepares students of all ages for academic and life success.</p>
       <!--div class="flex justify-center">
         <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
         <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
@@ -87,6 +87,15 @@
 </section>
 
 <section class="text-gray-600 body-font">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="lg:w-2/3 flex flex-col sm:flex-row sm:items-center items-start mx-auto">
+      <h1 class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">We love have a discussion with you.</h1>
+      <a class="flex-shrink-0 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0" href="/contact">Contact Us</a>
+    </div>
+  </div>
+</section>
+
+<section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="flex w-full mb-20 flex-wrap">
       <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom</h1>
@@ -109,6 +118,58 @@
         </div>
       </div>
     </div>
+  </div>
+</section>
+
+<section class="text-gray-600 body-font overflow-hidden">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="flex flex-col text-center w-full mb-12">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">About Us</h1>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We are here to help our students achieve their full academic potential using unique teaching methods. Our teachers consist of qualified teachers, professionals and current undergraduates. We believe that learning a subject from different perspectives allows a student to thoroughly understand the topic.</p>
+    </div>
+    <div class="flex flex-wrap -m-12">
+      <div class="p-12 md:w-1/2 flex flex-col items-start">
+        <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">Mission</h2>
+        <p class="leading-relaxed mb-8">Providing comprehensive and individually focused learning that prepares students of all ages for academic and life success.</p>  
+      </div>
+      <div class="p-12 md:w-1/2 flex flex-col items-start">
+        <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">Vision</h2>
+        <p class="leading-relaxed mb-8">We believe our educational programme will aide all of our students to achieve their personal educational goals.
+Provide a positive experience and opportunities for every student to improve their skills and build self-esteem.
+Help students to build the foundation of their future success by helping them to become independent learners.
+Provide positive learning environment.</p>
+      </div>
+       <div class="p-12 md:w-1/2 flex flex-col items-start">
+        <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">Ethos</h2>
+        <p class="leading-relaxed mb-8">The ethos of the Compass Institute is to recognize the potential in every student and provide the highest quality of education to help them succeed. We are here to help our students achieve their full academic potential using unique teaching methods. Our teachers consist of qualified teachers, professionals, NIT Graduates and current undergraduates. We believe that learning a subject from different perspectives allows a student to thoroughly understand the topic. We do not sell dreams; rather we help our students work towards them.</p>  
+      </div>
+      <div class="p-12 md:w-1/2 flex flex-col items-start">
+        <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">Goals</h2>
+        <p class="leading-relaxed mb-8">Our main goal at the Compass Institute is to ensure that we can create an environment that will be inspiring to our students and can provide them with the confidence and enthusiasm to attain the highest possible results. Our teachers are experienced, highly academic and strive to offer the best quality education. The environment, procedures and processes at Compass Institute are similar to those of top London private schools with an affordable budget. Furthermore, we do not simply help students with their academic curriculum but also help them with University applications, work experience and interview skills.</p>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="text-gray-600 body-font relative" style="height:80vh;" id="contact">
+  <div class="absolute inset-0 bg-gray-300"  >
+    <iframe width="100%" height="90%" frameborder="0" marginheight="0" marginwidth="0" title="map" scrolling="no" src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=Epahs%20building,%20YMCA%20Rd,%20%20Kozhikode,%20Kerala%20673001&ie=UTF8&t=&z=14&iwloc=B&output=embed" style="filter: grayscale(1) contrast(1.2) opacity(0.4);"></iframe>
+  </div>
+  <div class="container px-5 py-24 mx-auto flex">
+    
+    <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
+        <div class="lg:w-1/2 px-6">
+          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
+          <p class="mt-1">Epahs building, YMCA Rd, above indusland bank, Kozhikode, Kerala 673001</p>
+        </div>
+        <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
+          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
+          <a class="text-indigo-500 leading-relaxed">contact@compassinstitute.site</a>
+          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
+          <p class="leading-relaxed">9846215144</p>
+        </div>
+      </div>
   </div>
 </section>
 

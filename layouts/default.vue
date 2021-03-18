@@ -5,12 +5,12 @@
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
       <img src="compass_logo.png" style="height:50px;" />
-      <span class="ml-3 text-xl">COMPASS INSTITUE</span>
+      <span class="ml-3 text-xl">COMPASS INSTITUTE</span>
     </a>
     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <a class="mr-5 hover:text-gray-700" href="#">What are we</a>
+      <a class="mr-5 hover:text-gray-700" href="/about">About Us</a>
       <a class="mr-5 hover:text-gray-700" href="#">Courses</a>
-      <a class="mr-5 hover:text-gray-700" href="/contact">Contact Us</a>
+      <a class="mr-5 hover:text-gray-700" href="#contact">Contact Us</a>
     </nav>  
   </div>
 </header>
@@ -25,10 +25,10 @@
   <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
     <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
      <img src="compass_logo.png" style="height:50px;" />
-      <span class="ml-3 text-xl">COMPASS INSTITUE</span>
+      <span class="ml-3 text-xl">COMPASS INSTITUTE</span>
     </a>
-    <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2020 Tailblocks —
-      <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@knyttneve</a>
+    <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 20221-2025 Compass Institute —
+      <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@CompassInstitute</a>
     </p>
     <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
       <a class="text-gray-500">
