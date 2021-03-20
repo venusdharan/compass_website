@@ -369,7 +369,7 @@
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="lg:w-2/3 flex flex-col sm:flex-row sm:items-center items-start mx-auto">
-      <h1 class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">We love have a discussion with you.</h1>
+      <h1 class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">We love to have a discussion with you.</h1>
       <a class="flex-shrink-0 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0" href="/contact">Contact Us</a>
     </div>
   </div>
@@ -378,8 +378,8 @@
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="flex w-full mb-20 flex-wrap">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom</h1>
-      <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Our Arena</h1>
+      <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base"> The environment, procedures and processes at Compass Institute are similar to those of top London private schools with an affordable budget.</p>
     </div>
     <div class="flex flex-wrap md:-m-2 -m-1">
       <CoolLightBox 
