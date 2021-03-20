@@ -8,8 +8,8 @@
       <span class="ml-3 text-xl">COMPASS INSTITUTE</span>
     </a>
     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <a class="mr-5 hover:text-gray-700" href="/about">About Us</a>
-      <a class="mr-5 hover:text-gray-700" href="#">Courses</a>
+      <a class="mr-5 hover:text-gray-700" href="#about">About Us</a>
+      <a class="mr-5 hover:text-gray-700" href="#course">Courses</a>
       <a class="mr-5 hover:text-gray-700" href="#contact">Contact Us</a>
     </nav>  
   </div>
