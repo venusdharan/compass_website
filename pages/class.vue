@@ -7,7 +7,7 @@
         <div class="h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
           <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Class: {{class_name}}</h1>
           <h2 class="title-font sm:text-1xl text-xl font-medium text-gray-900 mb-3">Teacher: {{class_teacher}}</h2>
-          <p class="leading-relaxed mb-3">Class Time: {{class_date}}</p>
+          <p class="leading-relaxed mb-3">Class Time: {{new Date(class_date).toLocaleDateString("en-GB") == "Invalid Date" ? "No Date" : new Date(class_date).toLocaleDateString("en-GB")}}</p>
         </div>
       </div>
     </div>
