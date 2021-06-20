@@ -44,7 +44,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: "https://compass-attendence.herokuapp.com/" //'http://localhost:5000/'
+    baseURL:"http://142.93.209.130:5000/"// "https://compass-attendence.herokuapp.com/" //'http://localhost:5000/'
   },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
