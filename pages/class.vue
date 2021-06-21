@@ -40,6 +40,7 @@
 
 <script>
 export default {
+  layout:'class',
   data() {
     return {
       class_id:null,
