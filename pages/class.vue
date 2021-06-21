@@ -54,11 +54,11 @@ export default {
    meta: [
       {
         'property':  'og:title',
-        'content':  `Online Class`,
+        'content':  `Compass Institute`,
       },
       {
         'property':  'og:description',
-        'content': `Attendance Gateway`,
+        'content': `Online Class`,
       },
       {
         'property':  'og:image',
