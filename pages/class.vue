@@ -41,6 +41,16 @@
 <script>
 export default {
   layout:'class',
+    head: {
+    title: 'Online Class',
+    meta: [
+      {
+        hid: 'Online Class',
+        name: 'Online Class',
+        content: 'Online Class'
+      }
+    ],
+  },
   data() {
     return {
       class_id:null,
