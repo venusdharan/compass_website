@@ -51,6 +51,20 @@ export default {
       }
     ],
   },
+   meta: [
+      {
+        'property':  'og:title',
+        'content':  `Online Class`,
+      },
+      {
+        'property':  'og:description',
+        'content': `Attendance Gateway`,
+      },
+      {
+        'property':  'og:image',
+        'content': `https://compassinstitute.site/compass_logo.png`
+      }
+  ],
   data() {
     return {
       class_id:null,
