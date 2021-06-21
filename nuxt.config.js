@@ -8,7 +8,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Online Class' },
       {
         property:  'og:title',
         content:  `Compass Institute`,
@@ -17,6 +17,7 @@ export default {
         property:  'og:description',
         content: `Online Class`,
       },
+
       {
         property:  'og:image',
         content: `https://compassinstitute.site/compass_logo.png`
