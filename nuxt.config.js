@@ -10,15 +10,18 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Online Class' },
       {
+        hid:'og:title',
         property:  'og:title',
         content:  `Compass Institute`,
       },
       {
+        hid:'og:description',
         property:  'og:description',
         content: `Online Class`,
       },
 
       {
+        hid:  'og:image',
         property:  'og:image',
         content: `https://compassinstitute.site/compass_logo.png`
       }
